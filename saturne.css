@@ -1,0 +1,68 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #C0C0C0;
+
+}
+
+
+.header {
+  background-image: url("https://images7.alphacoders.com/349/349947.jpg");
+  height: 550px;
+  background-position: center center;
+}
+
+h1 {
+  color: #FFFFFF; 
+  font-family: 'Orbitron', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 40%;
+ 
+}
+
+
+h2 {
+  color: #00008B;
+  background-color: #ADD8E6;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+li {
+  border-bottom: 1px solid #000000;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+a {
+  color: #4C0112;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}

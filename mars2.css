@@ -1,0 +1,113 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: #C0C0C0;
+}
+
+
+.header {
+  background-image: url("http://hdwallpaperexpert.com/wp-content/uploads/2016/06/Wallpaper-Space-Fire-Planet-4K-1600x1200.jpg");
+  height: 500px;
+  background-position: center center;
+}
+
+#sse2
+{
+   
+    height: 38px;
+    padding: 15px;
+    border-radius: 6px;
+    box-sizing: content-box;
+}
+#sses2
+{
+    margin:0 auto;
+
+}
+#sses2 ul 
+{ 
+    position: relative;
+    list-style-type: none;
+    float:left;
+    padding:0;margin:0;
+}
+#sses2 li
+{
+    float:left;
+    list-style-type: none;
+    padding:0;margin:0;background-image:none;
+}
+
+#sses2 li a
+{
+    height:30px;
+    padding-top: 8px;
+    margin: 0 40px;
+    color: #fff;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    display: block;
+    position: relative;
+    z-index: 2;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1 {
+  color: #FFFFFF; 
+  font-family: 'Orbitron', sans-serif;
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 30%;
+ 
+}
+
+
+h2 {
+  color: #00008B;
+  background-color: #ADD8E6;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+li {
+  border-bottom: 1px solid #000000;
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+a {
+  color: #4C0112;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 13px;
+  font-weight: 900;
+  text-align: left;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 2px;
+}
